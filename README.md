@@ -4,6 +4,8 @@
 📈 Experience in Python, data analysis, and research.<br>
 💻 Currently working in technical support and building data science projects.
 
+### 📚 Ongoing:
+I'm currently working in a SQL project to create a bookshelf database and practice my SQL skills. Feel free to check the progress!
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicole-louise-miranda) 
